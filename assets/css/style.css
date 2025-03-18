@@ -103,7 +103,10 @@ h2 {
 }
 
 /* Events */
-
+.section {
+  display: flex;
+  flex-direction: row;
+}
 /* Footer / contact */
 
 #contact {
@@ -151,6 +154,7 @@ h2 {
   border: 2px solid white;
   background-color: lightgray;
 } */
+*/
 
 /* Media queries */
 
